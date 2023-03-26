@@ -1,6 +1,6 @@
 # RWCFrance23 (Rugby World Cup France 2023)
 ## Description
-RWCFrance23 is a React application built as the final project of a 16-week front-end development boot camp by a team of three developers, [Aleksandr Riabov](https://github.com/AleksandrRiabov), [Ainhoa Prada](https://github.com/nowinoa) and  [myself](https://github.com/AlanaBF). The application provides various details about the Rugby World Cup France 2023, including matches, teams, scores, live match updates, pools, venue maps, and filters. Additionally, there are links to the official shop and ticket sales pages.
+RWCFrance23 is a React application built as the final project of a 16-week front-end development boot camp by a team of three developers, [Aleksandr Riabov](https://github.com/AleksandrRiabov), [Ainhoa Prada](https://github.com/nowinoa) and  [Alana Barrett-Frew](https://github.com/AlanaBF). The application provides various details about the Rugby World Cup France 2023, including matches, teams, scores, live match updates, pools, venue maps, and filters. Additionally, there are links to the official shop and ticket sales pages.
 
 Overall, the RWCFrance23 application is a comprehensive and visually appealing resource for rugby fans who want to stay up-to-date with the latest information about the Rugby World Cup France 2023. With its user-friendly interface and comprehensive features, this application is a testament to the skills and dedication of its developers.
 
